@@ -2,6 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhn04147%2Fhit-counter&count_bg=%2341DBBF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hn04147)](https://solved.ac/hn04147)
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=hn04147)](https://velog.io/@hn04147)
 
 ## 👋 Hello! My name is Sangjin.
 
