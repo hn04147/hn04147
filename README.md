@@ -10,7 +10,7 @@
 |  **Type**  	|  **Date** 	|            **Contents**           	|   **Organization**   	|
 |:----------:	|:---------:	|:---------------------------------:	|:------------------:	  |
 |**Education**| 2016.3 ~  	| Department of Computer<br>Science 	|**Hanyang University** |
-|**Employment**|  2021.5 ~ 	|        Front-End Developer        	|   **Frigate Bird**  	| -->
+|**Employment**|  2021.5 ~ 2021.12	|        Front-End Developer        	|   **Frigate Bird**  	| -->
 
 
 ### 🌱 Languages
