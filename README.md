@@ -13,7 +13,7 @@
 |**Employment**|  2021.5 ~ 2021.12	|        Front-End Developer        	|   **Frigate Bird**  	| -->
 
 
-### 🌱 Languages
+<!-- ### 🌱 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hn04147&layout=compact)](https://github.com/hn04147/github-readme-stats)
@@ -24,5 +24,5 @@
 [![hn04147's GitHub stats](https://github-readme-stats.vercel.app/api?username=hn04147)](https://github.com/hn04147/github-readme-stats)
 
 
-<!--🔭🌱👯🤔💬 📫😄-->
+<!--🔭🌱👯🤔💬 📫😄--> -->
 
